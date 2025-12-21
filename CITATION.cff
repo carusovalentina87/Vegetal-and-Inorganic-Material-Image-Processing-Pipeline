@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Vegetal and Inorganic Material Image Processing Pipeline for Archaeological Bitumen-based Samples"
+message: "If you use this software, please cite the associated publication."
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Caruso
+      given-names: Valentina
+    - family-names: Scatigno
+      given-names: Chiara
+    - family-names: Giampaolo
+      given-names: Simone
+    - family-names: Tufari
+      given-names: Alessio
+    - family-names: Ferguson
+      given-names: Laura
+    - family-names: Manclossi
+      given-names: Fabio
+    - family-names: Greco
+      given-names: Alessandra
+    - family-names: Romano
+      given-names: Lorenzo
+    - family-names: Festa
+      given-names: Giulia
+  title: "Decoding Sumerian Craft Technologies: Morphological Image Processing and Mesoscopic Feature Analysis of Archaeological Bitumen-based Composites"
+  year: 2026
+  status: "in press"
+
